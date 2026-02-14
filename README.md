@@ -62,6 +62,8 @@ ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, 
 5. Select your ESP32-C5 board and port
 6. Upload
 
+![Settings](https://github.com/user-attachments/assets/494b70fa-6e1a-48dc-a1b3-38b83b6d950d)
+
 ---
 
 ## User Guide
