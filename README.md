@@ -5,6 +5,8 @@
 
 ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, and web interface
 
+https://www.youtube.com/shorts/BzerwgcsSMY
+
 ## Features
 
 - **BLE Scanning** - Detects and tracks Bluetooth Low Energy devices with NimBLE library
