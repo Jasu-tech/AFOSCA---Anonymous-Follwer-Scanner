@@ -1,6 +1,7 @@
 # AFOSCA V2.MAP5
 
 ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, and web interface.
+![Screenshot_20260214_155947_Chrome](https://github.com/user-attachments/assets/6ae0f9cf-cad0-488b-99ea-0b9734045fa0)
 
 ## Features
 
