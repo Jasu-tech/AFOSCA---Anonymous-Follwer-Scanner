@@ -62,7 +62,7 @@ ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, 
 2. Address:0x0
 
 3. Setup:
-SPI Speed: 40MHz (tai 80MHz)
+SPI Speed: 40MHz (or 80MHz)
 SPI Mode: DIO
 COM-Port: Your ESP32-C5 port
 Baud: 921600 (fast) or 460800 (securer)
